@@ -1,9 +1,9 @@
-<h2>Security Audit</h2>
+<h1>Security Audit</h1>
 
-<h3>Description</h3>
+<h2>Description</h2>
 Project is to perform an audit of fictional company named Botium Toys and their cybersecurity program. The audit needs to align current business practices with industry standards and best practices. The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy for improving the security posture of the organization. The audit team needs to document their findings, provide remediation plans and efforts, and communicate with stakeholders.
 
-<h3>Scope</h3> 
+<h2>Scope</h2> 
 Botium Toys internal IT audit will assess the following:
 
 - Current user permissions set in the following systems: accounting, end point detection, firewalls, intrusion detection system, security information and event management (SIEM) tool.
@@ -12,7 +12,7 @@ Botium Toys internal IT audit will assess the following:
 - Ensure current user permissions, controls, procedures, and protocols in place align with necessary compliance requirements.
 - Ensure current technology is accounted for. Both hardware and system access.
   
-<h3>Goals</h3>
+<h2>Goals</h2>
 The goals for Botium Toys’ internal IT audit are:
 
 - To adhere to the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) 
@@ -21,11 +21,10 @@ The goals for Botium Toys’ internal IT audit are:
 - Implement the concept of least permissions when it comes to user credential management 
 - Establish their policies and procedures, which includes their playbooks 
 - Ensure they are meeting compliance requirements 
-<br />
+</br>
 
 
 <h2>Botium Toys: Risk assessment</h2>
-
 <h3>Current assets</h3>
 Assets managed by the IT Department include: 
 
@@ -39,25 +38,31 @@ Assets managed by the IT Department include:
 - Data retention and storage
 - Badge readers
 - Legacy system maintenance: end-of-life systems that require human monitoring 
+</br>
 
-<h3>Risk description</h3>
+<h2>Risk description</h2>
 Currently, there is inadequate management of assets. Additionally, Botium Toys does not have the proper controls in place and may not be compliant with U.S. and international regulations and standards. 
+</br>
 
-<h3>Control best practices</h3>
+<h2>Control best practices</h2>
 The first of the five functions of the NIST CSF is Identify. Botium Toys will need to dedicate resources to managing assets. Additionally, they will need to determine the impact of the loss of existing assets, including systems, on business continuity.
+</br>
 
-<h3>Risk score</h3>
+<h2>Risk score</h2>
 On a scale of 1 to 10, the risk score is 8, which is fairly high. This is due to a lack of controls and adherence to necessary compliance regulations and standards.
+</br>
 
-<h3>Additional comments</h3>
+<h2>Additional comments</h2>
 The potential impact from the loss of an asset is rated as medium, because the IT department does not know which assets would be lost. The likelihood of a lost asset or fines from governing bodies is high because Botium Toys does not have all of the necessary controls in place and is not adhering to required regulations and standards related to keeping customer data private.
-<br/>
+</br></br>
 
-<h2>Stakeholder memorandum</h2>
-<b>TO</b>: IT Manager, Stakeholders
-<b>FROM</b>: Manny Dador
-<b>DATE</b>: 6/20/23
-<b>SUBJECT</b>: Internal IT Audit Findings and Recommendations
+<h1>Stakeholder memorandum</h1>
+<b>TO</b>: IT Manager, Stakeholders </br>
+<b>FROM</b>: Manny Dador </br>
+<b>DATE</b>: 6/20/23 </br>
+<b>SUBJECT</b>: Internal IT Audit Findings and Recommendations 
+</br>
+</br>
 
 Dear Colleagues,
 
