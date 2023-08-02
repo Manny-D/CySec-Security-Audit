@@ -1,7 +1,7 @@
 <h1>Security Audit</h1>
 
 <h2>Description</h2>
-Project is to perform an audit of fictional company named Botium Toys and their cybersecurity program. The audit needs to align current business practices with industry standards and best practices. The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy for improving the security posture of the organization. The audit team needs to document their findings, provide remediation plans and efforts, and communicate with stakeholders.
+The project is to perform an audit of a fictional company named Botium Toys and their cybersecurity program. The audit needs to align current business practices with industry standards and best practices. The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy for improving the security posture of the organization. The audit team needs to document their findings, provide remediation plans and efforts, and communicate with stakeholders.
 
 <h2>Scope</h2> 
 Botium Toys internal IT audit will assess the following:
